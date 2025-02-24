@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phishing_Dectator</string>
+    <string name="phishing_api_key">${PHISHING_API_KEY}</string>
+
+</resources>

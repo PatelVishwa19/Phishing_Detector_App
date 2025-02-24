@@ -1,0 +1,15 @@
+# Ignore local configuration and API keys
+/local.properties
+/app/src/main/res/values/secrets.xml
+
+# Ignore build and intermediate files
+.gradle/
+.idea/
+build/
+out/
+*.iml
+
+# Ignore dependency caches
+.cxx/
+.externalNativeBuild/
+/build
